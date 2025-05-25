@@ -1,7 +1,9 @@
 
-# 🎓 Student Performance Predictor
+# 🎓 Student Performance Indicator
 
 A machine learning web application to predict student performance using academic and behavioral data. Developed using **Python**, **scikit-learn**, **Pandas**, and **NumPy**, with a real-time interactive interface built in **Streamlit**.
+
+with Streamlit Interface this project can be titled as Student Performance Predictor.
 
 ---
 
